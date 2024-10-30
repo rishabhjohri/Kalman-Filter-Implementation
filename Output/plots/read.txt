@@ -1,0 +1,1 @@
+Plots for all 8 points of the csv file
