@@ -1,0 +1,9 @@
+Process Noise,Measurement Noise,Acceleration Type,Measurement Interval,Average Error
+0.01,0.1,constant,7,0.00427734841873249
+0.01,0.1,constant,15,0.000980602246514345
+0.01,0.1,time-dependent,7,0.0026492591880891746
+0.01,0.1,time-dependent,15,0.001486552881110062
+0.1,0.2,constant,7,0.001756772610978361
+0.1,0.2,constant,15,0.0012060140451018656
+0.1,0.2,time-dependent,7,0.002879909639542057
+0.1,0.2,time-dependent,15,0.0011074003096135702
